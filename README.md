@@ -41,13 +41,13 @@ bilibili视频教程链接：[bilibili: https://space.bilibili.com/1532780812](h
 ---
 
 ### 🎈🎈代码配置更新说明
-ultralytics\cfg\models\cfg2024\DETR-Backbone
-ultralytics\cfg\models\cfg2024\RTDETR-Attention
-ultralytics\cfg\models\cfg2024\RTDETR-Backbone
-ultralytics\cfg\models\cfg2024\RTDETR-Loss
-ultralytics\cfg\models\cfg2024\RTDETR-Neck
-ultralytics\cfg\models\cfg2024\RTDETR-Other
-ultralytics\cfg\models\cfg2024\RTDETR组合改进
+ultralytics\cfg\models\cfg2024\DETR-Backbone  
+ultralytics\cfg\models\cfg2024\RTDETR-Attention  
+ultralytics\cfg\models\cfg2024\RTDETR-Backbone  
+ultralytics\cfg\models\cfg2024\RTDETR-Loss  
+ultralytics\cfg\models\cfg2024\RTDETR-Neck  
+ultralytics\cfg\models\cfg2024\RTDETR-Other  
+ultralytics\cfg\models\cfg2024\RTDETR组合改进  
 
 最全各种Loss损失函数集成代码 + yaml方式一键调用。
 多种 Head检测头 集成代码 + yaml方式一键调用。
